@@ -9,7 +9,8 @@
             VerticalOptions="Center">
 
             <Image
-<Label x:Name="labelCount" Tex="count: 0" />
+                <label x:Name="labelCount" Text="Count: 0 />"
+                       
                 <Editor x:Name="editorInfo" IsReadOnly="True" HeightRequest="100" />
                 <Label Text="Enter a name" />
                 <Entry x:Name="entryName" Placeholder="Name" />
