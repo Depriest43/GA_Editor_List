@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GA_Editor_DesmondR", "GA_Editor_DesmondR.csproj", "{44A842B1-C0F8-455F-A348-13098886CFF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A842B1-C0F8-455F-A348-13098886CFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A842B1-C0F8-455F-A348-13098886CFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A842B1-C0F8-455F-A348-13098886CFF9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{44A842B1-C0F8-455F-A348-13098886CFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A842B1-C0F8-455F-A348-13098886CFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44A842B1-C0F8-455F-A348-13098886CFF9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {987530C5-006A-4E9F-9381-1AB93AD9C540}
+	EndGlobalSection
+EndGlobal

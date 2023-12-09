@@ -1,0 +1,21 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GA_Editor_DesmondR.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Image
+<Label x:Name="labelCount" Tex="count: 0" />
+                <Editor x:Name="editorInfo" IsReadOnly="True" HeightRequest="100" />
+                <Label Text="Enter a name" />
+                <Entry x:Name="entryName" Placeholder="Name" />
+                <Label Text="Enter Index" />
+                <entry x:Name=" entryIndex" Placeholder="Index" Keyboard ="Numeric" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
